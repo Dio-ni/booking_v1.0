@@ -1,0 +1,35 @@
+[   
+    {
+        "name":"Auditorium",
+        "link":"/images/Auditorium.png"
+
+    },
+    {
+        "name":"Rounds",
+        "link":"/images/Rounds.png"
+
+    },
+    
+    {
+        "name":"Classroom",
+        "link":"/images/Classroom.png"
+
+    }, {
+        "name":"Banked Cabinet",
+        "link":"/images/Banked_Cabinet.png"
+
+    }, {
+        "name":"Cabinet",
+        "link":"/images/Cabinet.png"
+
+    }, {
+        "name":"Chairs in a circle",
+        "link":"/images/Chairs_In_A_Circle.png"
+
+    }, {
+        "name":"U Shape Cabinet",
+        "link":"/images/U_Shape_Cabinet.png"
+
+    }
+
+]
